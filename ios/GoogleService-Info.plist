@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>758573497282-c8s5vfugqjiq770f57t9gm8a10du79ag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.758573497282-c8s5vfugqjiq770f57t9gm8a10du79ag</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPiBKjS1HcpuZ7Age42wYxlL8z_N85UsA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>758573497282</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.uploadDownloadFileDemo</string>
+	<key>PROJECT_ID</key>
+	<string>uploaddownload-c5915</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uploaddownload-c5915.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:758573497282:ios:2a87654f736545e8b1745b</string>
+	<key>DATABASE_URL</key>
+	<string>https://uploaddownload-c5915-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

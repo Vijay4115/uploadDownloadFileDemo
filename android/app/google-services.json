@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "758573497282",
+    "project_id": "uploaddownload-c5915",
+    "storage_bucket": "uploaddownload-c5915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758573497282:android:4454d97e422f30bbb1745b",
+        "android_client_info": {
+          "package_name": "com.uploaddownloadfiledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758573497282-pa4sj01flil88voq86kokt9s4s8kkh97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62d5e75xiouND3-zz4W4CH-em63CDrts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758573497282-pa4sj01flil88voq86kokt9s4s8kkh97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758573497282-c8s5vfugqjiq770f57t9gm8a10du79ag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.uploadDownloadFileDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
